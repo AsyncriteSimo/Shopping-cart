@@ -1,0 +1,7 @@
+.shoppingListItem > h3{
+    color: rgb(59, 59, 160);
+}
+
+.icon{
+    cursor: pointer;
+}
